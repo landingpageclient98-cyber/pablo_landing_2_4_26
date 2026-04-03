@@ -1,2 +1,5 @@
 /*
-  X-Robots-Tag: noindex, follow
+  X-Robots-Tag: all
+
+/robots.txt
+  Content-Type: text/plain
